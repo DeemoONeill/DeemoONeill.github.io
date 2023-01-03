@@ -1,7 +1,7 @@
 # Matthew O'Neill - Data engineer
 
-Hello, welcome to my github pages site. it's a little bare at the moment but
-come back soon hopefully i'll filly it out a bit.
+Hello, welcome to my github pages site. It's a little bare at the moment but
+come back soon hopefully I'll fill it out a bit.
 
 ## About me
 
