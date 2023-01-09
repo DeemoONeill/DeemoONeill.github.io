@@ -12,9 +12,9 @@ from a database and doing minimal type casting, then Pydantic might not be for y
 If, however, you are pulling data from external APIs or parsing user data then
 Pydantic is a powerful tool to have on your belt.
 
-## quick example
+## Quick example
 
-in this example we are making a `TestClass` which has 3 fields: an int, a str and
+In this example we are making a `TestClass` which has 3 fields: an int, a str and
 either an int or bool.
 
 When we pass data in we can see that the string gets case as an int, the next arg
@@ -30,7 +30,7 @@ class TestClass(BaseModel):
     field3 : int | bool
 
 
-t = TestClass(field1= "1", field2 = 2, field3 = True)
+t = TestClass(field1="1", field2=2, field3=True)
 
 print(repr(t))
 # TestClass(field1=1, field2='2', field3=1)
@@ -51,7 +51,7 @@ class TestClass(BaseModel, smart_union=True):
     field3 : int | bool
 
 
-t = TestClass(field1= "1", field2 = 2, field3 = True)
+t = TestClass(field1="1", field2=2, field3=True)
 
 print(repr(t))
 # TestClass(field1=1, field2='2', field3=True)

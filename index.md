@@ -8,3 +8,7 @@ come back soon hopefully I'll fill it out a bit.
 I'm Matthew O'Neill, I'm a data engineer with a chemistry background. I did my
 PhD on carbon dioxide utilisation and thermodynamics. Now I work as a python
 developer and data engineer.
+
+## Articles
+
+[Pydantic](pydantic_intro.md)
