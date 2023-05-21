@@ -1,9 +1,10 @@
-<!-- ---
+---
 layout: post
 title: injury-and-recovery
-tags: [health, fitness]
+date: 2023-05-15 19:14:50 -0000
+tags: [health, fitness, motivation]
 published: true
---- -->
+---
 
 ## Injury and Recovery
 
@@ -72,6 +73,23 @@ with exercises easy to do at home (see the notes at the end of this post), but t
 is once I've gotten into the habit of doing those, and the final twinges of back pain
 have subsided, I'll be joining the powerlifting gym that's a short cycle from my house.
 Hopefully I can get these postural muscles strong enough to avoid this happening again.
+
+### Lessons learned
+
+There are times when we have been given a signal by our bodies that its time to make
+adjustments, and sometimes life can get in the way of us listening to those signals.
+
+This whole experience has taught me how important it is to maintain a healthy body,
+and to give over time in the day to proactively prevent injury. The same is true with
+mental health, giving time over to reflect or change things up can help prevent burnout
+(but that's a topic for another day).
+
+Accountability is a powerful tool in our arsenal to overcome the inertia at doing those
+things, it can help motivate us when we aren't feeling particularly motivated to begin with.
+
+I suppose the final lesson learned is that motivation isn't something that just strikes,
+it's something we need to cultivate and wrestle with when there is so much else we could
+be doing.
 
 Thanks for reading.
 
